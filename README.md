@@ -7,7 +7,7 @@ A web-based e-commerce demo integrating eSewa digital payment gateway built with
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP 8+
 - **Database:** MySQL
-- **Payment:** eSewa Payment Gateway v2 (UAT/Sandbox)
+- **Payment:** eSewa Payment Gateway v2
 - **Server:** Apache (XAMPP)
 
 ## Project Structure
